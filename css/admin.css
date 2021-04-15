@@ -1,0 +1,73 @@
+
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align:center ;
+}
+
+td {
+  text-align:center ;
+}
+
+thead {
+  text-align: center;
+}
+
+.right {
+  position: absolute;
+  right: 20px;
+  width: 300px;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}
+
+#RightAlert{
+  position: absolute;
+  nav-left: 20px;
+  max-width: 3px;
+  padding: 10px;
+
+}
+
+
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  text-align:center ;
+}
+
+td {
+  text-align:center ;
+}
+
+thead {
+  text-align: center;
+}
+
+.right {
+  position: absolute;
+  right: 20px;
+  width: 300px;
+  padding: 10px;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  height: 70px;
+}
+
+
