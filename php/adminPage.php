@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
 $R=$_GET['R'];
@@ -121,10 +121,6 @@ echo "
 ";
 
 
-
-=======
-<?php
-
 mysql_connect("localhost","root","");
 mysql_select_db("base");
 
@@ -227,7 +223,4 @@ echo "
 </html>
 ";
 
-
-
->>>>>>> 7d9a44eed8e8349a878c497b051a24f7cdad6a17
 ?>
