@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?
 
 $CIN=$_POST['cin'];
@@ -30,8 +30,7 @@ if (mysql_num_rows($resultat)==1){
 
 
 
-=======
-<?
+
 
 $CIN=$_POST['cin'];
 $mdp=$_POST['mdp'];
@@ -62,5 +61,4 @@ if (mysql_num_rows($resultat)==1){
 
 
 
->>>>>>> 7d9a44eed8e8349a878c497b051a24f7cdad6a17
 ?>

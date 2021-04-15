@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
     $CIN=$_GET['cin'];
@@ -491,9 +491,7 @@
             <p>Developped by Riadh Charcheri, Nour Dorgham, Oumayma Ben Fadhel.</p>
         </div>
     </html>";
-=======
 
-<?php
 
 $CIN=$_GET['cin'];
 $R=$_GET['R'];
@@ -976,5 +974,4 @@ echo "
  </html>";
 
 
->>>>>>> 7d9a44eed8e8349a878c497b051a24f7cdad6a17
 ?>

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
 $CIN=$_GET['cin'];
@@ -168,8 +168,7 @@ echo "
     
 
 
-=======
-<?php
+
 
 $CIN=$_GET['cin'];
 $Admin=$_GET['A'];
@@ -338,5 +337,5 @@ echo "
     
 
 
->>>>>>> 7d9a44eed8e8349a878c497b051a24f7cdad6a17
+
 ?>

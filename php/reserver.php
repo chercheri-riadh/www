@@ -43,14 +43,6 @@ if ( $reserved < $nb_surveillant ) {
 
 
 
-
-
-
-
-
-=======
-<?php
-
 $CIN=$_POST['cin'];
 $num=$_POST['num'];
 $quotaR=$_POST['quotaR'];
@@ -90,10 +82,6 @@ if ( $reserved < $nb_surveillant ) {
     header("Location: http://127.0.0.1/php/pannel.php?cin=$CIN&R=4");
     exit();
 }
-
-
-
-
 
 
 

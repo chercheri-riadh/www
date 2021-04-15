@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
  $num_salle=$_POST['num_salle'];
@@ -18,8 +18,7 @@
         echo " error try again";
     }
 
-=======
-<?php
+
 
  $num_salle=$_POST['num_salle'];
  $CIN=$_POST['cin'];
@@ -40,5 +39,5 @@
         echo " error try again";
     }
 
->>>>>>> 7d9a44eed8e8349a878c497b051a24f7cdad6a17
+
 ?>

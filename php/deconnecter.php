@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
  $quotaR=$_POST['quotaR'];
@@ -14,8 +14,7 @@
  }
 
 
-=======
-<?php
+
 
  $quotaR=$_POST['quotaR'];
  $CIN=$_POST['cin'];
@@ -30,5 +29,5 @@
  }
 
 
->>>>>>> 7d9a44eed8e8349a878c497b051a24f7cdad6a17
+
 ?>
