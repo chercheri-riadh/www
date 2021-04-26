@@ -120,11 +120,12 @@ echo "
             <table class='table table-bordered border-dark'>
                 <thead class='table-dark'>
                     <tr>
-                        <th scope='col'>numero de surveillance</th>
+                        <th scope='col'>N°surveillance</th>
                         <th scope='col'>nb_groupe</th>
                         <th scope='col'>nb_surveillants</th>
                         <th scope='col'>nb_salle</th>
                         <th scope='col'>date_debut</th>
+                        <th scope='col'>salle</th>
                     </tr>
                 </thead>
 
@@ -143,6 +144,7 @@ echo "
                         $nb_surveillant= $s['nb_surveillants'];
                         $nb_salle= $s['nb_salle'];
                         $date_debut = $s['date_debut'];
+                        $salle = $e['num_salle'];
 
                         echo "
                         <tr>
@@ -151,6 +153,7 @@ echo "
                             <td>$nb_surveillant</td>
                             <td>$nb_salle</td>
                             <td>$date_debut</td>
+                            <td>$salle</td>
                         </tr> 
                     ";
                     }
