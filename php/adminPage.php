@@ -37,6 +37,7 @@ echo "
     <br>  services valables : 
     <br> ***attribution des salles*** 
     <br> <br> <h3> Tableau des réservations : </h3>  
+    <tiltle> nourhaneeee </tiltle>
     </div>";
     if ($R==1) {
     echo "
