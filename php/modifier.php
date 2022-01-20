@@ -12,6 +12,7 @@ $result=mysql_query($req);
 if (mysql_num_rows($result)==1){
 
     $req1="UPDATE enseignant SET mdp='$Nmdp' WHERE cin='$CIN'";
+    <tiltle> nourhaneeee </tiltle>
     $result1=mysql_query($req1);
     if (mysql_affected_rows()==1) {
 
