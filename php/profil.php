@@ -47,6 +47,7 @@ echo "
                           <div class='d-flex flex-row align-items-center back'>
                             <img src='../img/profile1.png' width='80' height='80'>
                             <h1 style='padding-left: 40PX;'> Profil </h1>
+                            <tiltle> nourhaneeee </tiltle>
                           </div>
                       </div>
                       <div class='row mt-2'>
@@ -60,6 +61,7 @@ echo "
                       <div class='row mt-4'>
                           <div class='col-md-6'>Quota : $quota</div>
                           <div class='col-md-6'> Grade : $grade </div>
+                          <tiltle> nourhaneeee </tiltle>
                       </div>
                   </div>
                 </div>
